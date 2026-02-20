@@ -418,3 +418,12 @@ Before asking for help, verify:
 You've successfully built and deployed your first blockchain application!
 
 **Made with ❤️ for learning blockchain development**
+
+
+OUTPUT
+
+<img width="2996" height="1920" alt="Screenshot 2026-02-20 173402" src="https://github.com/user-attachments/assets/25603d0a-43eb-4bd2-9402-4234f15a1c4d" />
+
+<img width="2998" height="1820" alt="Screenshot 2026-02-20 173449" src="https://github.com/user-attachments/assets/2d61553b-6ac8-4e06-97ae-6701ed5622c2" />
+
+
